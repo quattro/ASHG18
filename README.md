@@ -1,2 +1,2 @@
 # ASHG18
-Notes
+Collection of notes on presentations/posters at ASHG2018.
