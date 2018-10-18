@@ -1,0 +1,18 @@
+Splicing variation + blood lipid levels
+---------------------------------------
+- Noncoding GWAS -> perturb gene expression -> lipid levels
+- Noncoding GWAS -> perturb gene splicing -> lipid levels!!!
+- Fine-level detail on potential mechanism
+- iPSCs and hepatocyte-like cells (HLCs) as a model system!
+- Aims of project:
+    - HLC/iPSC for sQTL discovery
+    - Are identified sQTLs informative for lipid biology?
+- n=83 iPSCs => hepatocyte cells
+- ~1400 sQTL genes at FDR <= 5%
+- Majority of sQTLs are near associated exon junction
+- STRONG enrichment for sQTLs located in splice windows (small overlap between junction and intron)
+- sQTLs found using HLCs replicate in liver
+- Forward HLCs for downstream lipid analysis
+- COLOC using sQTL and lipid levels
+    - Identify 20+ loci that colocalize sQTL or eQTL with lipid GWAS results
+    - PGS1 has sQTL in canonical splice site
