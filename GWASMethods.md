@@ -1,0 +1,11 @@
+Reversing GWAS to identify and model genetic subtypes
+-----------------------------------------------------
+- Sub-phenotyping using bespoke algorithm
+- MFMR remains calibrated even when there are no subtypes!
+- Population structure can confound subtyping
+ - Include genotyping PCs to control
+- Run on METSIM data
+ - 3/4 GWAS hits show strong evidence in support of subgroups
+- Use subgroup as a covariate and investigate GxE using GxEMM random effects
+ - Strong evidence in support for heterogeneity by subtypes (P < 10e-7)
+- github.com/andywdahl/rgwas
